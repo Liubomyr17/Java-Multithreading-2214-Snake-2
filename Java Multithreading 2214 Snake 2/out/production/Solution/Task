@@ -1,0 +1,16 @@
+/*
+
+Snake 2
+
+Now the fun part. How the snake will be arranged.
+What about the snake?
+In fact, a snake is a set of pieces - cells. But it is known for sure that one of them is the head.
+The snake has a direction of movement
+So we still need classes:
+SnakeSection - a snake slice
+SnakeDirection - class enum will describe the direction of movement of the snake
+
+Create a SnakeSection and SnakeDirection class.
+
+
+ */
